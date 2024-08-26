@@ -1,6 +1,4 @@
-Here’s a comprehensive `README.md` for your GitHub project, based on the provided Python code:
 
-```markdown
 # Polygon and Polygons Python Library
 
 ## Overview
@@ -131,13 +129,9 @@ Contributions are welcome! To contribute:
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a Pull Request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
-For questions or feedback, please contact [your_email@example.com](mailto:your_email@example.com).
+For questions or feedback, please contact [shansharma23@gmail.com](mailto:shansharma23@gmail.com).
 
 ---
 
