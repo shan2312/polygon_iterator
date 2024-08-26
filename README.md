@@ -136,4 +136,3 @@ For questions or feedback, please contact [shansharma23@gmail.com](mailto:shansh
 ---
 
 Thank you for using the Polygon and Polygons Python Library. We hope it enhances your geometric calculations and analysis!
-```
