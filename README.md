@@ -137,16 +137,3 @@ For questions or feedback, please contact [shansharma23@gmail.com](mailto:shansh
 
 Thank you for using the Polygon and Polygons Python Library. We hope it enhances your geometric calculations and analysis!
 ```
-
-### Summary
-
-- **Overview**: Brief description of the library's functionality.
-- **Features**: Highlights the key features of the classes.
-- **Installation**: Instructions for integrating the code.
-- **Usage**: Examples showing how to use the classes.
-- **Classes**: Detailed descriptions of the `Polygon`, `Polygons`, and `PolygonsIterator` classes.
-- **Contributing**: Guidelines for contributing to the project.
-- **License**: License details.
-- **Contact**: Contact information for inquiries.
-
-Replace placeholder URLs and email addresses with your actual information. This `README.md` provides a complete overview and instructions for using the library, making it easier for others to understand and contribute.
